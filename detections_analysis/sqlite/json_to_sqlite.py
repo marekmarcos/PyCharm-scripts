@@ -9,7 +9,7 @@
 *                                                                                           *
 *     OSTATNIA EDYCJA PLIKU: 04.05.2020                                                     *
 *     kontakt z twórcami kodu:                                                              *
-*     a) M.Knap mknap@wp.pl                                                                 *
+*     a) M.Knap mpknap@wp.pl                                                                 *
 *     b) S.Stuglik slawekstu@gmail.com                                                      *
 *********************************************************************************************
 """
